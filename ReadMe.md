@@ -7,4 +7,6 @@ https://openaccess.thecvf.com/content_cvpr_2014/papers/Koutaki_Scale-space_Proce
 
 # Presentation:
 
-presen.pptx
+(presen)[https://github.com/goukoutaki/SpectralSIFT/blob/9a7c9afffb38654cafb18ea7c1af5b6e92249390/presen.pptx]
+
+
