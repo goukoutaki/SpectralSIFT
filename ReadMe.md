@@ -9,6 +9,7 @@ https://openaccess.thecvf.com/content_cvpr_2014/html/Koutaki_Scale-space_Process
 
 [Presentation file (Microsoft Power Point)](https://github.com/goukoutaki/SpectralSIFT/blob/9a7c9afffb38654cafb18ea7c1af5b6e92249390/presen.pptx)
 
+[Video](https://github.com/goukoutaki/SpectralSIFT/blob/3b792b885d966f92c01fd907ed3a44b6d6d44c55/presen.wmv)
 
 # Codes
 
@@ -16,7 +17,11 @@ https://openaccess.thecvf.com/content_cvpr_2014/html/Koutaki_Scale-space_Process
 
 Note: I don't remember much as it's old code, but I think it doesn't use OpenCV and uses fftw instead
 
-[Video](https://github.com/goukoutaki/SpectralSIFT/blob/3b792b885d966f92c01fd907ed3a44b6d6d44c55/presen.wmv)
+## Mathmetica code to calculate coefficients.
+
+[mathematica code](https://github.com/goukoutaki/SpectralSIFT/blob/e65257ecd8b61afaed44a735a6b03facaa136add/sLOG.nb)
+
+
 
 # bibtex
 
