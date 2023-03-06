@@ -14,3 +14,14 @@ https://openaccess.thecvf.com/content_cvpr_2014/papers/Koutaki_Scale-space_Proce
 
 [spectral_sift_vcc.zip](https://github.com/goukoutaki/SpectralSIFT/blob/389a08492342e5c24231f2401bba5b6d129f6844/spectral_sift_vcc.zip)
 
+Note: I don't remember much as it's old code, but I think it doesn't use OpenCV and uses fftw instead
+
+# bibtex
+
+ @InProceedings{Koutaki_2014_CVPR,
+ author = {Koutaki, Gou and Uchimura, Keiichi},
+ title = {Scale-space Processing Using Polynomial Representations},
+ booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+ month = {June},
+ year = {2014}
+ } 
