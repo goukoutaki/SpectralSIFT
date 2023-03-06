@@ -18,6 +18,7 @@ Note: I don't remember much as it's old code, but I think it doesn't use OpenCV 
 
 # bibtex
 
+```
  @InProceedings{Koutaki_2014_CVPR,
  author = {Koutaki, Gou and Uchimura, Keiichi},
  title = {Scale-space Processing Using Polynomial Representations},
@@ -25,3 +26,4 @@ Note: I don't remember much as it's old code, but I think it doesn't use OpenCV 
  month = {June},
  year = {2014}
  } 
+```
