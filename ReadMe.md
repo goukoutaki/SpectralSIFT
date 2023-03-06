@@ -2,7 +2,7 @@
 
 
 # Paper:
-https://openaccess.thecvf.com/content_cvpr_2014/papers/Koutaki_Scale-space_Processing_Using_2014_CVPR_paper.pdf
+https://openaccess.thecvf.com/content_cvpr_2014/html/Koutaki_Scale-space_Processing_Using_2014_CVPR_paper.html
 
 
 # Presentation:
